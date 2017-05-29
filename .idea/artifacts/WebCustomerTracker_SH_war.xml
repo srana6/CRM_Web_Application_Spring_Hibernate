@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="WebCustomerTracker-SH:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/WebCustomerTracker_SH_war</output-path>
+    <root id="archive" name="WebCustomerTracker-SH_war.war">
+      <element id="artifact" artifact-name="WebCustomerTracker-SH:war exploded" />
+    </root>
+  </artifact>
+</component>
