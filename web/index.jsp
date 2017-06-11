@@ -24,7 +24,7 @@
             <h1 class="cover-heading">Customer Relationship Management</h1>
             <p class="lead">Welcome to CRM Webpage</p>
             <p class="lead">
-                <a href="/customer/list" class="btn btn-lg btn-default">Click To Continue</a>
+                <a href="${pageContext.request.contextPath}/customer/list" class="btn btn-lg btn-default">Click To Continue</a>
             </p>
         </div>
 
