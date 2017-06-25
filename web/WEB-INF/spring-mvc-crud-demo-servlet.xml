@@ -31,9 +31,9 @@
 	<bean id="myDataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource"
           destroy-method="close">
         <property name="driverClass" value="com.mysql.jdbc.Driver" />
-        <property name="jdbcUrl" value="jdbc:mysql://cms.c4jeud2dq2jh.us-west-2.rds.amazonaws.com/content_management_system_dev?useSSL=false" />
-        <property name="user" value="admin" />
-        <property name="password" value="chicagodowntown" />
+        <property name="jdbcUrl" value="XXXX?useSSL=false" />
+        <property name="user" value="XXXX" />
+        <property name="password" value="XXXX" />
 
         <!-- these are connection pool properties for C3P0 -->
         <property name="minPoolSize" value="5" />
